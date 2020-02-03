@@ -5,3 +5,11 @@ On this website you will be able to see the work I have completed in AP Comppute
 [Link](url) and ![Image](src)
 ```
    <img src="Kobe.jpg" alt="Kobe" height="345" style="width:50%">
+
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="portfolio.html">Portfolio</a></li>
+<li><a href="aboutme.html">About Me</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
